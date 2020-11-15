@@ -1,0 +1,1 @@
+# Back-test-SMA-strategy-on-Nifty-Banknifty
